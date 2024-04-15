@@ -1,0 +1,14 @@
+fastapi==0.104.1
+langchain
+python-dotenv
+python-multipart
+tiktoken
+unstructured==0.6.1
+tabulate
+starlette==0.27.0
+pydantic
+pdfminer.six
+faiss-cpu
+uvicorn==0.24.0.post1
+langchain_openai
+gunicorn==21.2.0
